@@ -14,9 +14,9 @@ Alertas de eventos extremos
 
 Consulta de dados históricos
 
-Visualização gráfica (Chart.js e Plotly.js)
+Visualização gráfica com Chart.js e Plotly.js
 
-Exportação de relatatórios em PDF e CSV
+Exportação de relatórios em PDF e CSV
 
 Tela de contato e sugestões
 
@@ -36,16 +36,16 @@ Clone o repositório:
 git clone https://github.com/liviazanichelli/monitoramento_costeiro.git
 
 
-Mova o projeto para o diretório do XAMPP:
+Mova o projeto para o diretório principal do XAMPP:
 
 C:\xampp\htdocs\
 
 
-Inicie os serviços Apache e MySQL no XAMPP.
+Inicie os serviços Apache e MySQL no painel do XAMPP.
 
 Abra o phpMyAdmin e importe o arquivo .sql do projeto.
 
-Acesse pelo navegador:
+Acesse o sistema pelo navegador:
 
 http://localhost/monitoramento_costeiro/
 
