@@ -1,0 +1,16 @@
+{
+  "dados": [
+    {
+      "lat": -23.95,
+      "lon": -46.33,
+      "local": "Santos",
+      "tipo": "Ressaca"
+    },
+    {
+      "lat": -24.0,
+      "lon": -46.2,
+      "local": "Guaruj\u00e1",
+      "tipo": "Mar\u00e9 Alta"
+    }
+  ]
+}
